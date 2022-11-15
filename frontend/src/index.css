@@ -19,3 +19,13 @@ a:visited {
   color: unset;
   text-decoration: none;
 }
+
+section#sales {
+  padding: 40px 10px;
+}
+
+div.card-container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 900px;
+}
